@@ -254,6 +254,7 @@ body {
 }
 
 .contact .row form .input-group input {
+  display: flex
   background: none;
   width: 100%;
   font-size: 1.rem;
