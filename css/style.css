@@ -227,8 +227,13 @@ body {
 
 .contact .row .map {
   flex: 1 1 45rem;
+  border-radius: 1%;
   width: 100%;
+  min-height: 20rem;
+  max-width: 30rem;
   object-fit: cover;
+  margin: 0.5rem;
+  border: 0;
 }
 
 .contact .row form {
