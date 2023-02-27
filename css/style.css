@@ -156,7 +156,7 @@ body {
 }
 
 .about .row .about-img img {
-  width: 100;
+  width: 100%;
 }
 
 .about .row .content {
@@ -208,7 +208,7 @@ body {
 }
 
 .menu .row .menu-card img {
-  width: 100;
+  width: 100%;
 }
 
 .menu .row .menu-card .menu-card-tittle {
