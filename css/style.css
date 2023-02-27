@@ -239,7 +239,7 @@ body {
 }
 
 .contact .row form {
-  flex: 1 1 45rem;
+  flex: 1 1 15rem;
   padding: 5rem 2rem;
   text-align: center;
 }
@@ -247,16 +247,18 @@ body {
 .contact .row form .input-group {
   display: flex;
   align-items: center;
-  margin-top: 2rem;
+  margin-bottom: 2rem;
   background-color: #ffebeb;
   border: 1px solid #010101;
   padding-left: 2rem;
 }
 
 .contact .row form .input-group input {
-  padding-left: 2rem;
+  background: none;
   width: 100%;
-  font-size: 1rem;
+  font-size: 1.rem;
+  padding: 1rem;
+  margin-left: 2rem;
   background-color: #ffebeb;
   color: #010101;
 }
