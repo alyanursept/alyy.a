@@ -385,41 +385,6 @@ footer .credit a {
     padding: 0.5rem;
     font-size: 2rem;
   }
-    .about .row {
-    flex-wrap: wrap;
-  }
-
-  .about .row .about-img img {
-    height: 50rem;
-    object-fit: cover;
-    object-position: center;
-    image-orientation: center;
-  }
-
-  .about .row .content {
-    padding: 0;
-  }
-
-  .about .row .content h3 {
-    margin-top: 1rem;
-    font-size: 2rem;
-  }
-
-  .about .row .content p {
-    font-size: 1.6rem;
-  }
-
-  .contact .row {
-    flex-wrap: wrap;
-  }
-
-  .contact .row .map {
-    height: 30rem;
-  }
-
-  .contact .row form {
-    padding-top: 0.5rem;
-  }
 
 /* Mobile Phone */
 @media (max-width: 450px) {
